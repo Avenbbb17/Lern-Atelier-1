@@ -9,6 +9,7 @@
 3. Ich will den Auftrag mit dem AKV fertigstellen.
 
 ### Reflexion
+Ich konnte heute gut an meinen Zielen arbeiten und war auch konzentriert. Allerdings habe ich mich zu sehr auf Visual Studio fokussiert und deshalb nicht mit dem AKV begonnen. Beim nächsten Mal werde ich darauf achten, meine Zeit gleichmäßig auf alle drei Ziele aufzuteilen.
 
 ## 1. Tag (16.08.2024)
 
