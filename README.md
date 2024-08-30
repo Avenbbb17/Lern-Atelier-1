@@ -1,5 +1,15 @@
 # Lern-Atelier-1-2024
 
+## 3. Tag (30.08.2024)
+
+1. Ich möchte einen Taschenrechner programmieren.
+2. Ich möchte wenn ich Zeit habe noch am Modul 319 arbeiten
+
+### Reflexion
+Ich konnte heute gut an meinem Programm arbeiten, aber das reichte mir nicht also habe ich noch einem Quizprogramm gearbeitet. Ich konnte das Quiz noch nicht fertig stellen, aber bis zum nächsten mal wirds reichen.
+
+## Ziele 
+
 ## 2. Tag (23.08.2024)
 
 ## Ziele 
