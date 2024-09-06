@@ -1,5 +1,12 @@
 # Lern-Atelier-1-2024
 
+## 4. Tag (06.09.2024
+
+1. Ich möchte das Quizprogramm an dem ich arbeite fertig stellen.
+
+### Reflexion
+Ich konnte heute mein Quizprogramm verbessern, das Programm verfolgt deine letzen Ergebnisse und die richtige Antworten sind nicht immer beim gleichen Buchstabe.
+
 ## 3. Tag (30.08.2024)
 
 1. Ich möchte einen Taschenrechner programmieren.
