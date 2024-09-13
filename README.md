@@ -1,5 +1,14 @@
 # Lern-Atelier-1-2024
 
+## 5. Tag (13.09.2024)
+
+1. Heute möchte ich den Auftrag von letzten Dienstag zu ende arbeiten.
+2. Ich möchte eine Notenverwaltung als Programm erstellen um Array zu üben.
+
+### Reflexion
+
+
+
 ## 4. Tag (06.09.2024
 
 1. Ich möchte das Quizprogramm an dem ich arbeite fertig stellen.
