@@ -7,6 +7,7 @@
 
 ### Reflexion
 
+Heute bin ich mit meiner Arbeit zufrieden. Ich konnte die Aufträge fertig bearbeiten und das Programm läuft auch einwandfrei.
 
 
 ## 5. Tag (13.09.2024)
