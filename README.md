@@ -1,5 +1,14 @@
 # Lern-Atelier-1-2024
 
+## 6. Tag (20.09.2024)
+
+1. Die Aufträge vom M319 bearbeiten
+2. Ich mache noch das Programm die eine Kasse Simuliert
+
+### Reflexion
+
+
+
 ## 5. Tag (13.09.2024)
 
 1. Heute möchte ich den Auftrag von letzten Dienstag zu ende arbeiten.
@@ -7,6 +16,7 @@
 
 ### Reflexion
 
+Ich konnte gut und konzentriert arbeiten. Ich verstehe jetzt Array viel besser. Ich konnte auch bei meinem Programm Array einsetzen.
 
 
 ## 4. Tag (06.09.2024
