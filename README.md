@@ -1,5 +1,9 @@
 # Lern-Atelier-1-2024
 
+## 7. Tag (18.10.2024)
+1. Modul 319 PPT repetieren.
+2. Ich will einen Number-guesser als C# Programm erstellen.
+
 ## 6. Tag (20.09.2024)
 
 1. Die Aufträge vom M319 bearbeiten
