@@ -1,5 +1,12 @@
 # Lern-Atelier-1-2024
 
+## 8. Tag (25.10.2024)
+1. Übungstest Buchhaltung
+2. Übungstest Rangliste
+
+### Reflexion
+
+
 ## 7. Tag (18.10.2024)
 1. Modul 319 PPT repetieren.
 2. Ich will einen Number-guesser als C# Programm erstellen.
@@ -66,5 +73,5 @@ Ich konnte heute gut an meinen Zielen arbeiten und war auch konzentriert. Allerd
 Ich konnte heute meine Ziele erreichen und bin mit dem, was ich gelernt habe, zufrieden. Ich glaube, ich habe mich ein bisschen unterschätzt, 
 da ich die Aufträge früher fertig hatte als geplant.
 
-## Arbeitspakete für 23.08.2024
+
 
