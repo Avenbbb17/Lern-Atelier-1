@@ -1,11 +1,16 @@
 # Lern-Atelier-1-2024
 
+## . Tag (01.11.2024)
+1. Ich schaue mir ein Tutorial über C# an. Damit ich mich für den Test vorbereiten kann.
+
+### Reflexion
+
 ## 8. Tag (25.10.2024)
 1. Übungstest Buchhaltung
 2. Übungstest Rangliste
 
 ### Reflexion
-
+Der heutige Tag war gut meiner Meinung nach. Ich konnte die beiden Übungstest konzentriert und gut bearbeiten.
 
 ## 7. Tag (18.10.2024)
 1. Modul 319 PPT repetieren.
