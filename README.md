@@ -1,9 +1,17 @@
 # Lern-Atelier-1-2024
 
-## . Tag (01.11.2024)
+## 10. Tag (08.11.2024)
+### Ziele 
+1. Programierprojekt informieren
+2. Auftrag 1741 fertigstellen
+3. Code von Modul 319 aussbessern
+
+## 9. Tag (01.11.2024)
+### Ziele 
 1. Ich schaue mir ein Tutorial über C# an. Damit ich mich für den Test vorbereiten kann.
 
 ### Reflexion
+Ich fand das Video sehr gut und ich konnte viel dazu lernen. Ich habe auch immer das nachgemacht, was er gezeigt hat.
 
 ## 8. Tag (25.10.2024)
 1. Übungstest Buchhaltung
@@ -36,8 +44,9 @@ Heute bin ich mit meiner Arbeit zufrieden. Ich konnte die Aufträge fertig bearb
 Ich konnte gut und konzentriert arbeiten. Ich verstehe jetzt Array viel besser. Ich konnte auch bei meinem Programm Array einsetzen.
 
 
-## 4. Tag (06.09.2024
+## 4. Tag (06.09.2024)
 
+### Ziele 
 1. Ich möchte das Quizprogramm an dem ich arbeite fertig stellen.
 
 ### Reflexion
@@ -45,18 +54,17 @@ Ich konnte heute mein Quizprogramm verbessern, das Programm verfolgt deine letze
 
 ## 3. Tag (30.08.2024)
 
+### Ziele
 1. Ich möchte einen Taschenrechner programmieren.
 2. Ich möchte wenn ich Zeit habe noch am Modul 319 arbeiten
 
 ### Reflexion
 Ich konnte heute gut an meinem Programm arbeiten, aber das reichte mir nicht also habe ich noch einem Quizprogramm gearbeitet. Ich konnte das Quiz noch nicht fertig stellen, aber bis zum nächsten mal wirds reichen.
 
-## Ziele 
 
 ## 2. Tag (23.08.2024)
 
 ## Ziele 
-
 1. Ich möchte die Variabeln und Daten mich weiterhin vertiefen um sie gut zu verstehen.
 2. Ich möchte die Kontrollstrukturen kennenlernen.
 3. Ich will den Auftrag mit dem AKV fertigstellen.
@@ -67,14 +75,12 @@ Ich konnte heute gut an meinen Zielen arbeiten und war auch konzentriert. Allerd
 ## 1. Tag (16.08.2024)
 
 ### Ziele
-
 1. Ich will weiterarbeiten am Modul 319 die Themen sind Variabeln Datentypen, Operatoren und Konvertierung
 - [x] Auftrag 6904
 - [x] Auftrag 6905
 - [x] Auftrag 2702
 
 ### Reflexion
-
 Ich konnte heute meine Ziele erreichen und bin mit dem, was ich gelernt habe, zufrieden. Ich glaube, ich habe mich ein bisschen unterschätzt, 
 da ich die Aufträge früher fertig hatte als geplant.
 
