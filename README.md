@@ -6,6 +6,9 @@
 2. Auftrag 1741 fertigstellen
 3. Code von Modul 319 aussbessern
 
+### Reflexion
+Wir konnten uns heute gut informier über unser Programmierprojekt. Ich habe zwar den Auftrag nicht erledigt, aber dafür konnte ich meinen Code von der Prüfung ausbessern.
+
 ## 9. Tag (01.11.2024)
 ### Ziele 
 1. Ich schaue mir ein Tutorial über C# an. Damit ich mich für den Test vorbereiten kann.
@@ -64,7 +67,7 @@ Ich konnte heute gut an meinem Programm arbeiten, aber das reichte mir nicht als
 
 ## 2. Tag (23.08.2024)
 
-## Ziele 
+### Ziele 
 1. Ich möchte die Variabeln und Daten mich weiterhin vertiefen um sie gut zu verstehen.
 2. Ich möchte die Kontrollstrukturen kennenlernen.
 3. Ich will den Auftrag mit dem AKV fertigstellen.
