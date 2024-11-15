@@ -1,4 +1,10 @@
 # Lern-Atelier-1-2024
+## 11. Tag (15.11.2024)
+### Ziele 
+1. PAP für Projekt erledigen
+2. API informieren
+3. Modul 162: Auftrag 6953 erledigen
+
 
 ## 10. Tag (08.11.2024)
 ### Ziele 
