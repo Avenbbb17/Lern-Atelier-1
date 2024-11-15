@@ -5,6 +5,8 @@
 2. API informieren
 3. Modul 162: Auftrag 6953 erledigen
 
+### Reflexion
+Wir konnten heute das PAP fertigstellen und ich konnte mich gut über die Api informieren.
 
 ## 10. Tag (08.11.2024)
 ### Ziele 
