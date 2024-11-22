@@ -1,4 +1,11 @@
 # Lern-Atelier-1-2024
+## 12. Tag (22.11.2024)
+### Ziele 
+1. Programierprojekt: Programm starten
+2. Eigenes Programmierprojekt starten: TicTacToe
+
+### Reflexion
+
 ## 11. Tag (15.11.2024)
 ### Ziele 
 1. PAP für Projekt erledigen
