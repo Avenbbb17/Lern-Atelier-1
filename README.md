@@ -5,6 +5,7 @@
 2. Eigenes Programmierprojekt starten: TicTacToe
 
 ### Reflexion
+Wir konnten heute das Programm verbessern und die meisten Fehler beheben. Wir sind fast fertig mit dem Programm. Ich konnte daher fast garnicht an meinem TicTacToe arbeiten.
 
 ## 11. Tag (15.11.2024)
 ### Ziele 
