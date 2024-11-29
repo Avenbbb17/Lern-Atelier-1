@@ -1,4 +1,13 @@
 # Lern-Atelier-1-2024
+## 12. Tag (29.11.2024)
+### Ziele 
+1. Programierprojekt: Programm fertigstellen
+2. Programierprojekt: Für Präsentation vorbereiten
+3. Modul 162: Beziehungen repetieren und begriffe für logische und konzeptionelle Datenmodel einprägen
+
+### Reflexion
+Wir konnten heute das Programm verbessern und die meisten Fehler beheben. Wir sind fast fertig mit dem Programm. Ich konnte daher fast garnicht an meinem TicTacToe arbeiten.
+
 ## 12. Tag (22.11.2024)
 ### Ziele 
 1. Programierprojekt: Programm starten
