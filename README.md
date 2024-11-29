@@ -6,6 +6,7 @@
 3. Modul 162: Beziehungen repetieren und begriffe für logische und konzeptionelle Datenmodel einprägen
 
 ### Reflexion
+Heute konnten wir sowohl das Programmierprojekt und den Vortrag fertigstellen. Ich bin jz auch sicherer mit den beiden Datenmodellen.
 
 ## 12. Tag (22.11.2024)
 ### Ziele 
