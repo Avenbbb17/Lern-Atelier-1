@@ -19,7 +19,7 @@ oder das der Galgen zu klein war. Ich konnte dennoch das Problem lösen. Am ende
       ||    |  
       ||   / \ 
       ||  /   \
-  "=================" 
-  "================="
+  $'================='$ 
+  $'================='$
  
 
