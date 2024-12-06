@@ -6,7 +6,7 @@
 3. Ich will ein Hangman als Programmierprojekt starten
 
 ### Reflexion
-
+Heute habe ich mein Programmier projekt angefangen. Ich habe damit angefangen auf C# den Galgenmann zu zeichnen. Ich habe mich auch noch mit dem Modul 162 beschäftigt und ich konnte mich gut informieren.
 
 ## 12. Tag (29.11.2024)
 ### Ziele 
