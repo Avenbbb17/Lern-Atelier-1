@@ -1,4 +1,13 @@
 # Lern-Atelier-1-2024
+## 13. Tag (06.12.2024)
+### Ziele
+1. Modul 162: Konzeptionelles Datenmodel in Logische übertragen
+2. Modul 162: Normalformen erkennen und beschreiben können
+3. Ich will ein Hangman als Programmierprojekt starten
+
+### Reflexion
+
+
 ## 12. Tag (29.11.2024)
 ### Ziele 
 1. Programierprojekt: Programm fertigstellen
