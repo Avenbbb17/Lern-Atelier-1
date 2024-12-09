@@ -1,10 +1,10 @@
 # Hangman
 
 ## Anforderungen
-[ ] Galgen Zeichnen
-[ ] Wörterliste: Array oder über http
-[ ] Algorythmus: Buchstabe im Wort...
-[ ] Liste mit schon probierten Wörtern
+- [ ] Galgen Zeichnen
+- [ ] Wörterliste: Array oder über http
+- [ ] Algorythmus: Buchstabe im Wort...
+- [ ] Liste mit schon probierten Wörtern
 
 ### Galgen zeichnen
 
