@@ -6,6 +6,10 @@
 2. Wörterliste mit Array
 3. Wörter in Kategorien (Tiere, Städte etc.) einteilen also verschiedene Spielmodi.
 
+### Reflexion
+Heute habe ich erfolgreich die Wörterliste erstellen können. Ich konnte auch beim Galgenman das Programm so umschreiben das es bei einer falschen eingabe weiterzeichtet. Bei einer richtigen Eingabe bleibt er so.
+
+
 ## 13. Tag (06.12.2024)
 ### Ziele
 1. Modul 162: Konzeptionelles Datenmodel in Logische übertragen
