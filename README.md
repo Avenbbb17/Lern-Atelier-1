@@ -1,4 +1,11 @@
 # Lern-Atelier-1-2024
+## 14. Tag (13.12.2024)
+### Ziele
+
+1. Galgenman zeichnen bei falscher Eingabe
+2. Wörterliste mit Array
+3. Wörter in Kategorien (Tiere, Städte etc.) einteilen also verschiedene Spielmodi.
+
 ## 13. Tag (06.12.2024)
 ### Ziele
 1. Modul 162: Konzeptionelles Datenmodel in Logische übertragen
