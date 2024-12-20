@@ -1,7 +1,11 @@
 # Lern-Atelier-1-2024
 ## 15. Tag (20.12.2024)
+### Ziele
 1. Modul 117: Auftrag 1708
 2. Wörter in Kategorien (Tiere, Städte etc.) einteilen also verschiedene Spielmodi. (Konnte ich letztes mal nicht machen)
+
+### Reflexion
+Heute habe ich am Auftrag 1708 gearbeitet und ich gut es gut lösen. Es gab keine Probleme. Ich konnte jetzt auch ein Programm erstellen das die Wörter in verschiedenen Kategorien aufteilen konnte. Ich will es dann für das Galgenspiel benutzen.
 ## 14. Tag (13.12.2024)
 ### Ziele
 
