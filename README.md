@@ -1,4 +1,7 @@
 # Lern-Atelier-1-2024
+## 15. Tag (20.12.2024)
+1. Modul 117: Auftrag 1708
+2. Wörter in Kategorien (Tiere, Städte etc.) einteilen also verschiedene Spielmodi. (Konnte ich letztes mal nicht machen)
 ## 14. Tag (13.12.2024)
 ### Ziele
 
