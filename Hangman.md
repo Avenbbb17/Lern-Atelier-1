@@ -21,5 +21,6 @@ oder das der Galgen zu klein war. Ich konnte dennoch das Problem lösen. Am ende
       ||  /   \ 
       ================= 
       =================
- 
+ ### Wörterliste
+ Ich habe eine Wörterliste erstellt mit 4 Kategorien mittels Array. Ich habe sie in den Kategorien Stadt, Land, Essen und Tiere unterteilt. Jede Kategorie enthält 50 Wörter. Ziel der Kategorien ist es, dass der Spieler vor Spielbeginn entscheiden kann in welcher Kategorie er die Wörter finden will. Das bringt einen grösseren Spielspass mit sich
 
