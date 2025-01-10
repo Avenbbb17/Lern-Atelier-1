@@ -1,8 +1,12 @@
 # Lern-Atelier-1-2024
 ## 16. Tag (10.01.2025
 ### Ziele
-1. Wörterliste und Galgenman zeichnung verknüpfen
+1. Hangman: Das Programm soll erkennen wenn ein falscher Buchstabe eingegeben wird. Das Programm soll anzeigen welche Buchstaben man schon eingeben hat. Es soll auch die richtigen Buchstaben drinnen haben.
 2. Modul 164: LB anfangen
+
+### Reflexion
+Ich konnte das Programm so aufstellen, das es erkennt wenn ein falscher Buchstabe eingegeben wird. Das Programm zeigt aucht an welche Buchstaben man schon eingegeben hat. Ich habe auch noch eine 5. Kategorie hinzugefügt. Diese Kategorie beinhaltet alle Wörter von den vorherigen Kategorien.
+
 ## 15. Tag (20.12.2024)
 ### Ziele
 1. Modul 117: Auftrag 1708
