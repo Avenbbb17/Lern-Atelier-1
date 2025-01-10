@@ -1,4 +1,8 @@
 # Lern-Atelier-1-2024
+## 16. Tag (10.01.2025
+### Ziele
+1. Wörterliste und Galgenman zeichnung verknüpfen
+2. Modul 164: LB anfangen
 ## 15. Tag (20.12.2024)
 ### Ziele
 1. Modul 117: Auftrag 1708
