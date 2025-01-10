@@ -1,5 +1,5 @@
 # Lern-Atelier-1-2024
-## 16. Tag (10.01.2025
+## 16. Tag (10.01.2025)
 ### Ziele
 1. Hangman: Das Programm soll erkennen wenn ein falscher Buchstabe eingegeben wird. Das Programm soll anzeigen welche Buchstaben man schon eingeben hat. Es soll auch die richtigen Buchstaben drinnen haben.
 2. Modul 164: LB anfangen
