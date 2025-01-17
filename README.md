@@ -1,4 +1,8 @@
 # Lern-Atelier-1-2024
+## 17. Tag (17.01.2025)
+1. Hangman: Das Programm soll bei einer falschen eingabe den Galgenman zeichnen.
+2. Hangman: Das Programm soll den Galgenman oben rechts vom Bildschirm zeichnen.
+3. Modul 164: Logisches Datenmodell erstellen
 ## 16. Tag (10.01.2025)
 ### Ziele
 1. Hangman: Das Programm soll erkennen wenn ein falscher Buchstabe eingegeben wird. Das Programm soll anzeigen welche Buchstaben man schon eingeben hat. Es soll auch die richtigen Buchstaben drinnen haben.
