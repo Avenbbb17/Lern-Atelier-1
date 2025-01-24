@@ -1,4 +1,13 @@
 # Lern-Atelier-1-2024
+## 18. Tag (24.01.2025)
+### Ziele
+1. Hangman: Das Programm soll die Falsch ausgebene Buchstaben anzeigen.
+2. Modul 117: HZ 5
+3. Modul 164: Logisches Datenmodell erstellen
+
+### Reflexion
+Ich konnte heute die falsch einegebene Buchstaben anzeigen lassen. Ich habe leider nicht an den Modulen arbeiten können, weil es mir nicht so gut ging.:(
+
 ## 17. Tag (17.01.2025)
 ### Ziele
 1. Hangman: Das Programm soll bei einer falschen eingabe den Galgenman zeichnen.
